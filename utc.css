@@ -25,6 +25,7 @@ h5{
 .selection{
     margin-top: 3%;
     margin-left: 20%;
+    margin-bottom: 3%;
 }
 
 #AmbroseContent, #BerkeleyContent, #ColumbiaContent, #CornellContent, #DartmouthContent, #HarvardContent, #StanfordContent{
@@ -40,4 +41,7 @@ h5{
     color: black;
 }
 
+.resultBox{
+    margin-top: 5%;
+}
 
