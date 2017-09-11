@@ -1,0 +1,43 @@
+body{
+    background-color: #ff8b2d;
+}
+
+.header{
+    color: white;
+    margin-top: 3%;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+
+h5{
+    color: white;
+    display: inline;
+}
+
+#housing-btn{
+    display: inline;
+    margin-left: 1rem;
+}
+
+.selection{
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+#AmbroseContent, #BerkeleyContent, #ColumbiaContent, #CornellContent, #DartmouthContent, #HarvardContent, #StanfordContent{
+    display: none;
+}
+
+.card{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.modal-title{
+    color: black;
+}
+
+
